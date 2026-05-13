@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-openparliament-ca",
+  "version": "0.1.0",
+  "description": "OpenParliament.ca MCP — civic-tech mirror of the Parliament of Canada",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "openparliament-ca"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-openparliament-ca"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
