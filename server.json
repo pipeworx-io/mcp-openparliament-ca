@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/openparliament-ca",
   "title": "Openparliament Ca",
   "description": "OpenParliament.ca MCP — civic-tech mirror of the Parliament of Canada",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://pipeworx.io/packs/openparliament-ca",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-openparliament-ca",
