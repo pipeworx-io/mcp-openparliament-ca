@@ -2,7 +2,7 @@
 
 OpenParliament.ca MCP — civic-tech mirror of the Parliament of Canada. House of Commons debates (Hansard), bills, votes, MPs, committee meetings. No auth.
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1856+ live data sources. This is an independent, unofficial integration — not affiliated with, endorsed by, or published by the upstream provider.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1867+ live data sources. This is an independent, unofficial integration — not affiliated with, endorsed by, or published by the upstream provider.
 
 Note: this is a community-maintained project (Michael Mulley et al.) — not the official Library of Parliament APIs (which are XML-only and awkward). OpenParliament.ca ingests and republishes the data with a clean REST surface.
 
@@ -19,7 +19,7 @@ Note: this is a community-maintained project (Michael Mulley et al.) — not the
 
 ## Data source
 
-`https://api.openparliament.ca/` — JSON via `Accept: application/json` or `?format=json`.
+OpenParliament.ca — JSON via `Accept: application/json` or `?format=json`.
 
 ## Quick Start
 
@@ -65,7 +65,7 @@ directly, instead of just this one's:
 }
 ```
 
-Both URLs reach the same gateway and the same 1856+ data sources. The
+Both URLs reach the same gateway and the same 1867+ data sources. The
 only difference is which pack's tools are listed **directly**; `ask_pipeworx`
 reaches all of them from either one.
 
